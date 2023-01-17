@@ -1,7 +1,6 @@
 {
   "name": "backend-project",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -16,5 +15,14 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "pg": "^8.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-ali-husnain/wheel-deal-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-ali-husnain/wheel-deal-backend/issues"
+  },
+  "homepage": "https://github.com/the-ali-husnain/wheel-deal-backend#readme",
+  "description": ""
 }
