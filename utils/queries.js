@@ -2,4 +2,9 @@ const usersTableQueries = {
   getAllUsersQuery: "SELECT * FROM users",
 };
 
-module.exports = { usersTableQueries };
+const hostsTableQueries = {
+  getAllHostsQuery : "SELECT * FROM hosts",
+}
+
+module.exports = {usersTableQueries, hostsTableQueries};
+
